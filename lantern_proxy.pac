@@ -5258,7 +5258,7 @@ var white_list = [
 "clientservices.googleapis.com"
 ];
 
-var proxy = 'PROXY 127.0.0.1:8787';
+var proxy = 'PROXY 127.0.0.1:51142';
 function FindProxyForURL(url, host) {
 
     for (var i = 0; i < white_list.length; i++) {
