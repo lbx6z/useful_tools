@@ -4,7 +4,8 @@
  */
 
 var black_list = [
-    "vidinfo.org",
+"elastic.co",
+"vidinfo.org",
 "4shared.com",
 "kagyu.org.za",
 "galstars.net",
